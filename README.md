@@ -2,7 +2,7 @@
 
 ## Prelude
 
-Comapnies often struggle with finding the sweet spot to purchase the right amount products for the inventory. Most managers rely heavily on their "experience" and "intuition" which often causes products to be over or under purchased. Over purhcasing would lead to extra expenses in storage wheras under purchasing would negatively impact the product availability, service level, and custom satifcation. 
+Companies often struggle with finding the sweet spot to purchase the right amount products for the inventory. Most managers rely heavily on their "experience" and "intuition" which often causes products to be over or under purchased. Over purhcasing would lead to extra expenses in storage wheras under purchasing would negatively impact the product availability, service level, and custom satifcation. 
 
 To tackle this problem and help companies better strategize their purchasing plan, Purchasify levrages historical stock level, demand, warehouse availability, and current custom order to forecast demand and further recommend the right and scientifc amount to purchase.
 
