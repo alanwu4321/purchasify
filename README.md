@@ -20,9 +20,9 @@ To tackle this problem and help companies better strategize their purchasing pla
 > High availability and stability through AWS and active monitoring
 
 
-### Forecast
+### Forecast Algorithm
 
-The underlying algorthim involves Double Exponential Smoothing on demand and error and Trigg's tracking signal. 
+The underlying Algorithm involves Double Exponential Smoothing on demand and error and Trigg's tracking signal. 
 
 Double exponential smoothing is given by the formulas
 
