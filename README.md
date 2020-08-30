@@ -83,9 +83,11 @@ Then the tracking signal is the ratio:
 > `mkdir ./target/asset` to create a dir that holds Excel export for the first time
 
 
-## Dependency
+## Resources
 
 - [Datadog](https://p.datadoghq.com/sb/qr29vfneoldizrbj-5344d58e735181330ced72e50c841107)
 - [Java 9 JRE Runtime](https://www.oracle.com/java/technologies/javase/javase9-archive-downloads.html)
 - [Java 8 Runtime](https://www.java.com/zh_TW/download/win10.jsp)
 - [Install Redis on Windows](https://github.com/microsoftarchive/redis/releases)
+- [Exponential Smoothing](https://en.wikipedia.org/wiki/Exponential_smoothing#:~:text=Double%20exponential%20smoothing,-Simple%20exponential%20smoothing&text=This%20nomenclature%20is%20similar%20to,exhibiting%20some%20form%20of%20trend.)
+- [Trigg's Signal](https://en.wikipedia.org/wiki/Tracking_signal)
